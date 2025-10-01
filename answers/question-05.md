@@ -1,0 +1,1 @@
+git pull fetches and merges changes from a remote repo, while git push uploads local commits to the remote repo.
