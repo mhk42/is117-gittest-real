@@ -1,0 +1,1 @@
+rm -rf forcefully deletes files/directories recursively—dangerous because it bypasses confirmation.
