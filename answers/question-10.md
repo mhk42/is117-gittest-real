@@ -1,0 +1,1 @@
+Absolute paths start from root (/), while relative paths are based on the current directory.
