@@ -1,0 +1,1 @@
+ls -la lists all files (including hidden ones) with detailed info like permissions and timestamps.
