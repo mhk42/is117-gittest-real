@@ -1,0 +1,1 @@
+git status shows the current state of the working directory and staging area.
