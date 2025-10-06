@@ -1,0 +1,1 @@
+cd changes the directory; e.g., cd folder, cd .., cd /home/user.
