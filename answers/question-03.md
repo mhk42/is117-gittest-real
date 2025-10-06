@@ -1,0 +1,1 @@
+A Git branch is a pointer to a snapshot of your changes, allowing parallel development.
