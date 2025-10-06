@@ -1,1 +1,1 @@
-cp copies files/directories, while mv moves or renames them.
+cp copies files or directories, while mv moves or renames them within the filesystem.

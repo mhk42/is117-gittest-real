@@ -1,1 +1,1 @@
-tail -n 20 filename shows the last 20 lines of a file.
+tail -n 20 filename shows the last 20 lines of a file, useful for logs or recent updates by the way.

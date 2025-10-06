@@ -1,1 +1,1 @@
-cat displays the contents of a file.
+cat displays the contents of a file directly in the terminal for quick viewing by the way.

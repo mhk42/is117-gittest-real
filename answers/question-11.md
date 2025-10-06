@@ -1,1 +1,1 @@
-touch filename creates an empty file.
+touch filename creates a new empty file or updates the timestamp of an existing one.

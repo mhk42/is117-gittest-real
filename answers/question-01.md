@@ -1,1 +1,1 @@
-git status shows the current state of the working directory and staging area.
+git status displays the current state of your working directory and staging area, showing which files are modified, staged, or untracked.

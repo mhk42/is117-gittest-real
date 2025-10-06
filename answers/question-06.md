@@ -1,1 +1,1 @@
-pwd prints the current working directory path.
+pwd stands for "print working directory" and shows your current location in the filesystem.

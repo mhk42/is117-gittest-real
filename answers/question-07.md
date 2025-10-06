@@ -1,1 +1,1 @@
-cd changes the directory; e.g., cd folder, cd .., cd /home/user.
+cd changes your current directory; examples include cd folder, cd .. to go up, and cd /path/to/dir for absolute paths.

@@ -1,1 +1,1 @@
-mkdir foldername creates a new directory.
+mkdir foldername creates a new directory with the specified name in your current location.

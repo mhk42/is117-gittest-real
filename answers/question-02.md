@@ -1,1 +1,1 @@
-git add stages changes for commit, while git commit saves those staged changes to the repository.
+git add stages changes to be committed, while git commit permanently records those staged changes in the repository history.

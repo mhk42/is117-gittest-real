@@ -1,1 +1,1 @@
-A Git branch is a pointer to a snapshot of your changes, allowing parallel development.
+A Git branch is a separate line of development that allows you to work independently from the main codebase.
