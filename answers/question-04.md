@@ -1,1 +1,1 @@
-git merge integrates changes from one branch into another.
+git merge integrates changes from one branch into another by the way.
